@@ -51,47 +51,54 @@ There has not been a single new customer in over 2,100 days, MegaDash needs to i
 
 This chart shows that customers joining MegaDash in February spend the most on average, emphasizing the potential for marketing during this month. February’s high average spending could be due to several factors, including cold temperatures and inclement weather, post-holiday convenience, Valentine’s Day, and Super Bowl parties. Campaigns centered around each factor could uncover insight used to increase revenue.
 
-Article content
+<img src="images/2.png?raw=true"/>
+
 Visuals 3 & 4: Customer Spending
 
 Most customers spend between $4 and $418.50, highlighting a significant opportunity to target promotions based on this demographic.
 
-Article content
+<img src="images/3.png?raw=true"/>
+
 67% of the variance in spending is linked to income levels. The higher their income, the higher MegaDash customers spend, this could be due to the higher incomes having more discretionary money. Income-based promotions could be used to incentivize potential customers.
 
-Article content
+<img src="images/4.png?raw=true"/>
+
 Visuals 5 & 6: Customer Purchases
 
 My findings revealed that wine had the highest total spent, followed by meat. Targeting fruit, fish, and sweets could increase the total spend on them.
 
-Article content
+<img src="images/5.png?raw=true"/>
+
 Most purchases are made through the stores suggesting that focusing on store promotions for low-selling products could be a focal point for future campaigns.
 
-Article content
+<img src="images/6.png?raw=true"/>
+
 Visuals 7 - 10: Customer Demographics
 
 Interestingly, the more kids/teens in a household, the less is spent. MegaDash may become too costly as the number of people it is providing for increases. This provides an opportunity for campaigns that target families with kids and teens.
 
-Article content
+<img src="images/7.png?raw=true"/>
+
 The following charts show average spending across different categories. While total spent indicates which category contributes the most overall, the focus is on categories with the highest average spent to maximize revenue. Ideally, a Customer Profitability Analysis would assess the revenue each category generates relative to the costs of serving them, but cost data is not provided.
 
 Key insights suggest that customers who are 66 and older, widowed, and/or hold PhDs tend to spend more on average. This information can inform targeted marketing strategies aimed at these demographics.
 
-Article content
+<img src="images/8.png?raw=true"/>
 
 
-Article content
+<img src="images/9.png?raw=true"/>
 
 
-Article content
+<img src="images/10.png?raw=true"/>
+
 Visuals 11 & 12: Previous Campaigns
 
 Although Campaign 6 has the highest total spent, Campaign 5 has the highest average total spent. Perhaps more exposure for Campaign 5 would increase its profitability. 
 
-Article content
+<img src="images/11.png?raw=true"/>
 
 
-Article content
+<img src="images/12.png?raw=true"/>
 
 ---
 ### Main Takeaways
