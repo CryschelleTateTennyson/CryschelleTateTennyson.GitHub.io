@@ -31,7 +31,6 @@ To begin my analysis, I cleaned and organized the dataset to ensure accuracy. Th
 
 In my analysis, I created several visuals to answer my questions and represent the data. Watch the video below as I present my visuals and reveal my findings
 
-https://www.loom.com/share/6d6992837f184a399f54451f7dd8c1c1?sid=0a5fb7b0-dde0-43e5-8c83-5daeb600f95e
 <div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/6d6992837f184a399f54451f7dd8c1c1?sid=1b6649f8-3e95-4f69-bb65-ffebd742bf58" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
