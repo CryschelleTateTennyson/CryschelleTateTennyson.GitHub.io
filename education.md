@@ -50,6 +50,6 @@ This project taught me a lot about the power of data in influencing education po
 This concludes my analysis of two of the companies within The Mega Corporation. I am excited to continue the challenge with the next six companies.
 
 ---
-# Call To Action 
+### Call To Action 
 
 I’d love to hear your thoughts on my findings! Connect with me on LinkedIn, or if you know someone looking to hire a data analyst, let’s have a conversation. Leave a comment with your insights or questions!
