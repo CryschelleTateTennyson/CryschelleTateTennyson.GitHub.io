@@ -4,9 +4,12 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
+#### [Marketing Project with Excel](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+In this project, I analyzed data on marketing campaigns to determine how they can increase a company's profitability. The main focuses were:
+How often are customers being acquired?
+Does income affect spending?
+Do kids/teens affect spending?
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
