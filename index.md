@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [Marketing Project with Excel](/marketing)
-<img src="images/Increase.png?raw=true"/>
+<img src="images/marketing_pic.png?raw=true"/>
 
 In this project, I analyzed data on marketing campaigns to determine how they can increase a company's profitability. The main focuses were:
 
@@ -15,7 +15,7 @@ In this project, I analyzed data on marketing campaigns to determine how they ca
 
 ---
 #### [Education Project with Tableau](/education)
-<img src="images/Schools.png?raw=true"/>
+<img src="images/education_pic.png?raw=true"/>
 
 In this project, I analyzed data on schools to determine if they are setting students up for success. The main focuses were:
 
