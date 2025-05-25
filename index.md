@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [Marketing Project with Excel](/marketing)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/increase.jpg?raw=true"/>
 
 In this project, I analyzed data on marketing campaigns to determine how they can increase a company's profitability. The main focuses were:
 
