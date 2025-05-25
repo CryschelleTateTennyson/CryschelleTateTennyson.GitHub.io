@@ -48,6 +48,7 @@ Visuals 1 & 2: Customer Acquisition
 There has not been a single new customer in over 2,100 days, MegaDash needs to investigate if the marketing strategies are not reaching new audiences or if there are barriers to attracting fresh clientele and run ads accordingly. 
 
 <img src="images/1.png?raw=true"/>
+
 This chart shows that customers joining MegaDash in February spend the most on average, emphasizing the potential for marketing during this month. February’s high average spending could be due to several factors, including cold temperatures and inclement weather, post-holiday convenience, Valentine’s Day, and Super Bowl parties. Campaigns centered around each factor could uncover insight used to increase revenue.
 
 Article content
