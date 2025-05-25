@@ -36,7 +36,7 @@ https://www.loom.com/share/6d6992837f184a399f54451f7dd8c1c1?sid=0a5fb7b0-dde0-43
 ---
 ### Main Takeaways
 
-image
+img src="images/13.png?raw=true"/>
 
 - The analysis showed that larger class sizes might actually benefit students by exposing them to a wider array of peers and learning styles.
 - The statistics reveal that a significant number of schools are not meeting basic graduation standards, which calls for urgent attention and intervention.
