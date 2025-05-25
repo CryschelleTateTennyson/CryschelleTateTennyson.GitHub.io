@@ -1,5 +1,5 @@
 # Are Schools Setting Students Up for Success?
-<img src="images/Schools.png?raw=true"/>
+<img src="images/education_pic.png?raw=true"/>
 
 ---
 In my journey as a data analyst, I've often found myself looking at numbers and trying to see the stories they tell. Recently, while working on a project analyzing MegaSchools in Massachusetts, I was struck by how data can illuminate education and its impact on students' futures. I remember staring at spreadsheets filled with rows of data, and wondering how these figures translate into real lives and opportunities.
