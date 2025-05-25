@@ -4,12 +4,14 @@
 
 ### Learn About My Projects
 
-#### [Marketing Project with Excel](/bank)
+#### [Marketing Project with Excel](/marketing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 In this project, I analyzed data on marketing campaigns to determine how they can increase a company's profitability. The main focuses were:
-How often are customers being acquired?
-Does income affect spending?
-Do kids/teens affect spending?
+
+- How often are customers being acquired?
+- Does income affect spending?
+- Do kids/teens affect spending?
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
