@@ -25,7 +25,7 @@ In this project, I analyzed data on schools to determine if they are setting stu
 
 ---
 #### [Banking Project with SQL](/banking)
-<img src="images/banking_pic.png?raw=true"/>
+<img src="images/banking.png?raw=true"/>
 
 In this project, I analyzed data on loans by an international bank to determine if it is being taken advantage of. The main focuses were:
 
