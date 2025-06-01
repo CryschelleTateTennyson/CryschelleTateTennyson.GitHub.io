@@ -23,6 +23,14 @@ In this project, I analyzed data on schools to determine if they are setting stu
 - Which schools are struggling the most?
 - Which districts need to improve their 4th-grade math scores?
 
+---
+#### [Banking Project with SQL](/banking)
+<img src="images/banking_pic.png?raw=true"/>
 
+In this project, I analyzed data on loans by an international bank to determine if it is being taken advantage of. The main focuses were:
+
+- Which region borrows the most money?
+- Which countries have the highest debt due?
+- Which projects cost the most?
 
 
