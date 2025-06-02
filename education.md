@@ -48,9 +48,6 @@ In my analysis, I created several visuals to answer my questions and represent t
 
 This project taught me a lot about the power of data in influencing education policies and practices. I faced challenges along the way, particularly in finding the right visualizations to convey my findings effectively. However, the experience has further solidified my interest in data analysis and its implications for improving outcomes.
 
-This concludes my analysis of two of the companies within The Mega Corporation. I am excited to continue the challenge with the next six companies.
-
----
-### Call To Action 
+This concludes my analysis of two of the companies within The Mega Corporation. I am excited to continue the challenge with the next six companies. 
 
 I’d love to hear your thoughts on my findings! Connect with me on LinkedIn, or if you know someone looking to hire a data analyst, let’s have a conversation. Leave a comment with your insights or questions!
