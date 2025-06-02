@@ -26,9 +26,10 @@ The dataset I utilized was provided by The Mega Corporation and includes 1,422,0
 ---
 #### Analysis Process
 My analysis involved several steps:
-1.	**Data Cleaning**: I ensured the data were accurate and complete, which included removing duplicate regions and countries. (visuals 1 & 2)
-2.	**Data Exploration**: I explored the data to gain an understanding of it. I called queries that gave me summary information. (visual 3)
-3.	**Data Analysis**: I analyzed the data to answer the intended questions and determine what additional insights I could uncover.
+1.	**Data Cleaning**: I ensured the data were accurate and complete, which included removing duplicate regions and countries.
+   <img src="images/B1.png?raw=true"/>
+3.	**Data Exploration**: I explored the data to gain an understanding of it. I called queries that gave me summary information. (visual 3)
+4.	**Data Analysis**: I analyzed the data to answer the intended questions and determine what additional insights I could uncover.
 
 ---
 #### Insights
