@@ -1,4 +1,4 @@
-# Are Schools Setting Students Up for Success?
+# Are Banks Being Taken Advantage Of? Exploring the Loan Dynamics of MegaIDA
 <img src="images/banking.png?raw=true"/>
 
 ---
