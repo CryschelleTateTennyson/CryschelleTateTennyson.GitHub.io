@@ -44,7 +44,7 @@ My analysis involved several steps:
 - MegaIDA should further investigate why South Asia has such a high original principal, but Africa has more loans.
 
 *Which countries have the most money due to MegaIDA?*
-- These images provide an insight into Ukraine’s loan status compared to India and Kenya.
+- These images provide an insight into countries with high amounts due to MegaIDA.
 <img src="images/B7.png?raw=true"/>
 - Interestingly, Ukraine has the highest amount due to MegaIDA, but I noticed that most loans from Ukraine are still being disbursed.
 <img src="images/B8.png?raw=true"/>
