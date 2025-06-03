@@ -28,25 +28,33 @@ The dataset I utilized was provided by The Mega Corporation and includes 1,422,0
 My analysis involved several steps:
 1.	**Data Cleaning**: I ensured the data were accurate and complete, which included removing duplicate regions and countries.
    <img src="images/B1.png?raw=true"/>
-3.	**Data Exploration**: I explored the data to gain an understanding of it. I called queries that gave me summary information. (visual 3)
-4.	**Data Analysis**: I analyzed the data to answer the intended questions and determine what additional insights I could uncover.
+   <img src="images/B2.png?raw=true"/>
+2.	**Data Exploration**: I explored the data to gain an understanding of it. I called queries that gave me summary information.
+   <img src="images/B3.png?raw=true"/>
+3.	**Data Analysis**: I analyzed the data to answer the intended questions and determine what additional insights I could uncover.
 
 ---
 #### Insights
-Which region borrows the most money?
-Visuals 4 & 5:
+*Which region borrows the most money?*
+<img src="images/B4.png?raw=true"/>
 While South Asia holds the highest original principal amount at over $20 trillion, Africa leads in the number of loans.
-Visuals 6 & 7: 
+<img src="images/B5.png?raw=true"/>
+<img src="images/B6.png?raw=true"/>
 I also discovered that while South Asia has fewer loans, it has a higher interest rate compared to Africa, which might explain the borrowing patterns.
 MegaIDA should further investigate why South Asia has such a high original principal, but Africa has more loans.
-Which countries have the most money due to MegaIDA?
-Visuals 8 & 9: These images provide an insight into Ukraine’s loan status compared to India and Kenya.
+
+*Which countries have the most money due to MegaIDA?*
+These images provide an insight into Ukraine’s loan status compared to India and Kenya.
+<img src="images/B7.png?raw=true"/>
 Interestingly, Ukraine has the highest amount due to MegaIDA, but I noticed that most loans from Ukraine are still being disbursed.
-Visuals 10 & 11:
+<img src="images/B8.png?raw=true"/>
 While Ukraine may not be a source of concern, India and Kenya should be investigated. India has 46,078 loans that were supposed to be repaid by November of 2024 and Kenya has 16,181 loans that were supposed to be repaid by August of 2024.
-Which projects cost the most?
-Visuals 12 & 13: 
-Furthermore, I was taken aback to find that while education accounted for the most loans, it wasn’t the highest in terms of costs.
+<img src="images/B9.png?raw=true"/>
+<img src="images/B10.png?raw=true"/>
+
+*Which projects cost the most?*
+I was taken aback to find that while education accounted for the most loans, it wasn’t the highest in terms of costs.
+<img src="images/B11.png?raw=true"/>
 Why are SAC II, IN: Elementary Education (SSA II), and BD: Padma Bridge’s original principal amounts so high? Is Education getting enough funding?
 
 ---
