@@ -36,11 +36,11 @@ My analysis involved several steps:
 ---
 #### Insights
 *Which region borrows the most money?*
-<img src="images/B4.png?raw=true"/>
 While South Asia holds the highest original principal amount at over $20 trillion, Africa leads in the number of loans.
+<img src="images/B4.png?raw=true"/>
+I also discovered that while South Asia has fewer loans, it has a higher interest rate compared to Africa, which might explain the borrowing patterns.
 <img src="images/B5.png?raw=true"/>
 <img src="images/B6.png?raw=true"/>
-I also discovered that while South Asia has fewer loans, it has a higher interest rate compared to Africa, which might explain the borrowing patterns.
 MegaIDA should further investigate why South Asia has such a high original principal, but Africa has more loans.
 
 *Which countries have the most money due to MegaIDA?*
