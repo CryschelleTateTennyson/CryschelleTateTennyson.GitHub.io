@@ -1,5 +1,5 @@
 ### Boosting Retail Profits with Data
-<img src="images/Retail.jpg?raw=true"/>
+<img src="images/Retail.png?raw=true"/>
 
 It was a typical Sunday evening for me, sipping coffee while buried in data analysis reports. What I didn’t expect was to spark a conversation with a retail manager at an electronics company who was feeling overwhelmed. He needed to present a way to boost his company’s profits by morning, and I offered my help on the spot. Little did I know, this impromptu meeting would lead to a fascinating project that uncovered some surprising insights about his company's performance.
 
