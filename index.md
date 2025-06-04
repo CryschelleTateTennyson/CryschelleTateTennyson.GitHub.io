@@ -35,7 +35,7 @@ In this project, I analyzed data on loans by an international bank to determine 
 
 ---
 #### [Retail Project with PowerBI](/retail)
-<img src="images/Retail.jpg?raw=true"/>
+<img src="images/Retail.png?raw=true"/>
 
 In this project, I analyzed data on electronics at a retail company to determine how they can increase their profitability. The main focuses were:
 
