@@ -10,7 +10,7 @@
 In this project, I analyzed data on patients from a hospital to determine if they are following the best practices. The main focuses were:
 
 - Are procedures being done fairly?
-- Which medications are the most used?
+- Which medications are the most commonly used?
 - What are the biggest success stories?
 
 ---
