@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [Helath Project with SQL](/banking)
-<img src="images/Health.png?raw=true"/>
+<img src="images/Health.jpg?raw=true"/>
 
 In this project, I analyzed data on patients from a hospital to determine if they are following the best practices. The main focuses were:
 
