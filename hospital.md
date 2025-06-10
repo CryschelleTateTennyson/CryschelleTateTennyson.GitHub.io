@@ -27,9 +27,9 @@ The dataset I worked with was quite extensive and comprises two tables: health a
 - My analysis journey started with cleaning the data to ensure it was accurate and usable. For instance, I noticed that some columns had incorrect data types, which I corrected. For example, I changed the "time_in_hospital" variable from a string to an integer, allowing for proper calculations.
 <img src="images/H1.jpg?raw=true"/>
 <img src="images/H2.jpg?raw=true"/>
-- I then summarized the data to get a clearer picture of patients and their hospital experiences. Summary information from the health table:
+- I then summarized the data to get a clearer picture of patients and their hospital experiences. Summary information from the health table shows that the table has 101,766 patients, 73 medical specialties, 136,339 procedures, 4,385,671 lab procedures, and 1,630,479 medications:
 <img src="images/H3.jpg?raw=true"/>
-- Summary information from the demographics table:
+- Summary information from the demographics table shows that the table has 71,518 patinets, 6 races, and 10 age groups:
 <img src="images/H4.jpg?raw=true"/>
 - After that, I created a histogram to understand patient stay durations better.
 <img src="images/H5.jpg?raw=true"/>
@@ -48,11 +48,11 @@ The dataset I worked with was quite extensive and comprises two tables: health a
 -	Next, I analyzed medication usage. Insulin stood out as the most prescribed medication across all age groups. It was surprising to see that Metformin and Glipizide swapped places for those 80 and older, highlighting how treatment can evolve with age.
 <img src="images/H9.jpg?raw=true"/>
 -	The hospital manager also asked for a written report on the top 50 medication patients.
-<img src="images/H10.jpg?raw=true"/>
+<img src="images/H12.jpg?raw=true"/>
 
 *What are the biggest success stories?*
 -	Lastly, I uncovered a significant number of success stories, with over 33,000 patients leaving the hospital sooner than average after emergencies. This was a heartwarming finding, emphasizing the positive impact the hospital has on patient recovery.
-<img src="images/H11.jpg?raw=true"/>
+<img src="images/H13.jpg?raw=true"/>
 
 ---
 #### Main Takeaways
