@@ -1,5 +1,5 @@
 # Are Hospitals Following Best Practices?
-<img src="images/hospital.png?raw=true"/>
+<img src="images/Hospital.png?raw=true"/>
 
 ---
 When I first received the dataset from MegaHospital, I was intrigued by the challenge ahead. Hospitals play a crucial role in our lives, and I wanted to see if the practices at MegaHospital were truly serving their patients well. This is my fourth project in my challenge by the president of the Mega Corporation to analyze eight of its companies. My task for this company was to provide insights for the hospital manager.
@@ -25,7 +25,7 @@ The dataset I worked with was quite extensive, provided by the president of Mega
 ---
 #### Analysis Process
 My analysis journey started with cleaning the data to ensure it was accurate and usable. For instance, I noticed that some columns had incorrect data types, which I corrected. For example, I changed the "time_in_hospital" variable from a string to an integer, allowing for proper calculations.
-<img src="images/h1.jpg?raw=true"/>
+<img src="images/H1.jpg?raw=true"/>
 H2
 I then summarized the data to get a clearer picture of patients and their hospital experiences. Summary information from the health table:
 H3
