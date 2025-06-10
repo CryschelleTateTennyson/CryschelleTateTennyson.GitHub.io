@@ -24,33 +24,35 @@ The dataset I worked with was quite extensive, provided by the president of Mega
 
 ---
 #### Analysis Process
-My analysis journey started with cleaning the data to ensure it was accurate and usable. For instance, I noticed that some columns had incorrect data types, which I corrected. For example, I changed the "time_in_hospital" variable from a string to an integer, allowing for proper calculations.
+- My analysis journey started with cleaning the data to ensure it was accurate and usable. For instance, I noticed that some columns had incorrect data types, which I corrected. For example, I changed the "time_in_hospital" variable from a string to an integer, allowing for proper calculations.
 <img src="images/H1.jpg?raw=true"/>
-H2
-I then summarized the data to get a clearer picture of patients and their hospital experiences. Summary information from the health table:
-H3
-Summary information from the demographics table:
-H4
-After that, I created a histogram to understand patient stay durations better.
-H5
+<img src="images/H2.jpg?raw=true"/>
+- I then summarized the data to get a clearer picture of patients and their hospital experiences. Summary information from the health table:
+<img src="images/H3.jpg?raw=true"/>
+- Summary information from the demographics table:
+<img src="images/H4.jpg?raw=true"/>
+- After that, I created a histogram to understand patient stay durations better.
+<img src="images/H5.jpg?raw=true"/>
 
 ---
 #### Insights
-ARE PROCEDURES BEING DONE FAIRLY?
+*Are procedures being done fairly?*
 -	Analyzing the distribution of procedures by medical specialty showed that surgery-related specialties were performing the most procedures. This made me think about how surgery often carries a higher risk than other procedures.
-H6
+<img src="images/H6.jpg?raw=true"/>
 -	When examining the demographics, I found that the number of lab procedures performed was fairly consistent across races, averaging between 40 and 44. This suggests that MegaHospital is treating patients equitably. 
-H7
+<img src="images/H7.jpg?raw=true"/>
 -	Looking at the correlation between the hospital stay lengths and the number of procedures, I observed that more procedures typically led to longer stays. ‘Few procedures’ averaged 3.8 days, while ‘many procedures’ averaged 5.66 days, indicating a logical pattern in patient care.
-H8
-WHICH MEDICATIONS ARE BEING USED THE MOST?
+<img src="images/H8.jpg?raw=true"/>
+
+*Which medications are the most commonly used?*
 -	Next, I analyzed medication usage. Insulin stood out as the most prescribed medication across all age groups. It was surprising to see that Metformin and Glipizide swapped places for those 80 and older, highlighting how treatment can evolve with age.
-H9
+<img src="images/H9.jpg?raw=true"/>
 -	The hospital manager also asked for a written report on the top 50 medication patients.
-H10
-WHAT ARE THE BIGGEST SUCCESS STORIES?
+<img src="images/H10.jpg?raw=true"/>
+
+*What are the biggest success stories?*
 -	Lastly, I uncovered a significant number of success stories, with over 33,000 patients leaving the hospital sooner than average after emergencies. This was a heartwarming finding, emphasizing the positive impact the hospital has on patient recovery.
-H11
+<img src="images/H11.jpg?raw=true"/>
 
 ---
 #### Main Takeaways
