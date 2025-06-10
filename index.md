@@ -4,14 +4,24 @@
 
 ### Learn About My Projects
 
-#### [Marketing Project with Excel](/marketing)
-<img src="images/marketing_pic.png?raw=true"/>
+#### [Helath Project with SQL](/banking)
+<img src="images/health.png?raw=true"/>
 
-In this project, I analyzed data on marketing campaigns to determine how they can increase a company's profitability. The main focuses were:
+In this project, I analyzed data on patients from a hospital to determine if they are following the best practices. The main focuses were:
 
-- How often are customers being acquired?
-- Does income affect spending?
-- Do kids/teens affect spending?
+- Are procedures being done fairly?
+- Which medications are the most used?
+- What are the biggest success stories?
+
+---
+#### [Banking Project with SQL](/banking)
+<img src="images/banking.png?raw=true"/>
+
+In this project, I analyzed data on loans by an international bank to determine if they are being taken advantage of. The main focuses were:
+
+- Which region borrows the most money?
+- Which countries have the highest debt due?
+- Which projects cost the most?
 
 ---
 #### [Education Project with Tableau](/education)
@@ -24,14 +34,14 @@ In this project, I analyzed data on schools to determine if they are setting stu
 - Which districts need to improve their 4th-grade math scores?
 
 ---
-#### [Banking Project with SQL](/banking)
-<img src="images/banking.png?raw=true"/>
+#### [Marketing Project with Excel](/marketing)
+<img src="images/marketing_pic.png?raw=true"/>
 
-In this project, I analyzed data on loans by an international bank to determine if they are being taken advantage of. The main focuses were:
+In this project, I analyzed data on marketing campaigns to determine how they can increase a company's profitability. The main focuses were:
 
-- Which region borrows the most money?
-- Which countries have the highest debt due?
-- Which projects cost the most?
+- How often are customers being acquired?
+- Does income affect spending?
+- Do kids/teens affect spending?
 
 ---
 #### [Retail Project with PowerBI](/retail)
