@@ -20,7 +20,7 @@ In this article, you’ll learn about the insights I found regarding hospital pr
 
 ---
 #### Dataset Details
-The dataset I worked with was quite extensive, provided by the president of Mega Corporation. It comprises two tables: health and demographics, covering data on 101,000 patients. The size and diversity of this dataset made it suitable for answering the pressing questions posed by the hospital manager.
+The dataset I worked with was quite extensive and comprises two tables: health and demographics, covering data on 101,000 patients. The size and diversity of this dataset made it suitable for answering the pressing questions posed by the hospital manager.
 
 ---
 #### Analysis Process
