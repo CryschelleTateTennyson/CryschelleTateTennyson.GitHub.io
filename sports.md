@@ -29,13 +29,13 @@ To analyze the data, I started by cleaning it. For instance, some players had de
 ---
 #### Visuals and Insights
 1.	Age Group Focus: This stacked bar chart shows team points per age group. Players over 30 contributed to less than one-third of points for the top scoring teams. This insight made it clear that the Mansfield Megas should prioritize younger players.
-<img src="images/s1.jpg?raw=true"/>
+<img src="images/S1.jpg?raw=true"/>
 2.	Key Players to Guard: This bubble chart displays stats for assists, points, and rebounds. It highlighted Nikola Jokic as the biggest triple-threat, suggesting that opposing teams would need a solid strategy to mitigate his impact.
-<img src="images/s2.jpg?raw=true"/>
+<img src="images/S2.jpg?raw=true"/>
 This treemap presents the top threats for assists. Although point guards dominate the assists field, players at other positions can be just as lethal.
-<img src="images/s3.jpg?raw=true"/>
+<img src="images/S3.jpg?raw=true"/>
 3.	3-Point Shot Defense: This heatmap reveals that 3-point shooting is a strong part of all players' games. The percentages are quite close across positions, emphasizing that even centers can pose a shooting threat.
-<img src="images/s4.jpg?raw=true"/>
+<img src="images/S4.jpg?raw=true"/>
 
 ---
 #### Main Takeaways
