@@ -4,6 +4,16 @@
 
 ### Learn About My Projects
 
+#### [Sports Project with Tableau](/sports)
+<img src="images/Sports.png?raw=true"/>
+
+In this project, I analyzed data on a sports league to determine if they are focusing on the right factors to compete. The main focuses were:
+
+- What age group of players should teams focus on recruiting?
+- What players should teams focus on guarding?
+- What positions should teams focus on guarding?
+
+---
 #### [Hospital Project with SQL](/hospital)
 <img src="images/Hospital.png?raw=true"/>
 
