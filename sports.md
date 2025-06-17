@@ -6,7 +6,7 @@ When I first got the call about forming a new NBA team, I felt a mix of exciteme
 
 ---
 #### Why THIS Project?
-Although this project was given to me by the president of The Meag Corporation as my fifth, out of eight projects for the corporation, it is special to me because basketball has always been a passion of mine. The idea of using data to create a winning team design was thrilling. It felt like the perfect blend of my interests in sports and analytics. Helping a brand-new team find its footing in a competitive league is a unique opportunity and a chance to make a real impact!
+Although this project was given to me by the president of The Mega Corporation as my fifth, out of eight projects for the corporation, it is special to me because basketball has always been a passion of mine. The idea of using data to create a winning team design was thrilling. It felt like the perfect blend of my interests in sports and analytics. Helping a brand-new team find its footing in a competitive league is a unique opportunity and a chance to make a real impact!
 
 ---
 #### What Readers Will Gain
