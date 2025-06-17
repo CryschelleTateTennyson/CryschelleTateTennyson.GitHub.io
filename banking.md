@@ -65,6 +65,6 @@ My analysis involved several steps:
 
 ---
 #### Conclusion and Personal Reflections
-Throughout this project, I faced challenges, especially with data cleaning and ensuring accuracy. However, seeing the final results and the stories they tell about global borrowing practices was rewarding. It reshaped my understanding of how financial relationships work on a global scale and highlighted the importance of responsible lending practices.
+Throughout this project, I faced challenges, especially with data cleaning and ensuring accuracy. However, seeing the final results and the stories they tell about global borrowing practices was rewarding. It reshaped my understanding of how financial relationships work on a global scale and highlighted the importance of responsible lending practices. I am looking foward to taking on my next project from the president.
 
 I’d love to hear your thoughts on my findings! Connect with me on LinkedIn, or if you know someone looking to hire a data analyst, let’s have a conversation. Leave a comment with your insights or questions!
