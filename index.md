@@ -14,7 +14,7 @@ In this project, I analyzed data on a sports league to determine if they are foc
 - What positions should teams focus on guarding?
 
 ---
-#### [Hospital Project with SQL](/hospital)
+#### [Healthcare Project with SQL](/hospital)
 <img src="images/Hospital.png?raw=true"/>
 
 In this project, I analyzed data on patients from a hospital to determine if they are following the best practices. The main focuses were:
