@@ -4,6 +4,16 @@
 
 ### Learn About My Projects
 
+#### [Engineering Project with Python](/engineering)
+<img src="images/Engineering.png?raw=true"/>
+
+In this project, I analyzed data from a flotation plant to assess its efficiency. The main focuses were:
+
+- Did anything significant happen on June 1, 2017?
+- Do important variables correlate?
+- How does a variable change throughout the day?
+
+---
 #### [Sports Project with Tableau](/sports)
 <img src="images/Sports.png?raw=true"/>
 
