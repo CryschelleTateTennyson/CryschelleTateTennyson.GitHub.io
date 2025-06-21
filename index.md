@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [Engineering Project with Python](/engineering)
-<img src="images/Engineering.png?raw=true"/>
+<img src="images/Engineering2.png?raw=true"/>
 
 In this project, I analyzed data from a flotation plant to assess its efficiency. The main focuses were:
 
