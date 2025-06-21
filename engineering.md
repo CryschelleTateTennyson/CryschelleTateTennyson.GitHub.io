@@ -28,22 +28,37 @@ The dataset I worked with was a hefty one, provided by Mega Metals. It contained
 I began my analysis by installing and importing the necessary Python libraries, including Pandas for data management and Seaborn and Matplotlib for visualization. I connected to the dataset and used the head() function to get a quick look at the data.
 <img src="images/E1.jpg?raw=true"/>
 
-Next, I cleaned the dataset, converting date strings into timestamps for better manipulation (Image 2). Pulling summary statistics helped me grasp the data's overall trends (Image 3). 
+Next, I cleaned the dataset, converting date strings into timestamps for better manipulation.
+<img src="images/E2.jpg?raw=true"/>
+
+Pulling summary statistics helped me grasp the data's overall trends.
+<img src="images/E3.jpg?raw=true"/>
 
 ---
 ### Visuals and Insights
-1. **June 1, 2017:** To address the specific questions posed by the plant's head, I focused on June 1, 2017, to see if anything significant happened that day. Image 4
-I filtered the data accordingly and examined key variables such as ‘% Iron Concentration’, ‘% Silica Concentration’, ‘Ore Pulp pH’, and ‘Flotation Column 05 Level’ (Image 5).
+1. **June 1, 2017:** To address the specific questions posed by the plant's head, I focused on June 1, 2017, to see if anything significant happened that day. <img src="images/E4.jpg?raw=true"/>
 
-2. **Correlation Analysis:** I created scatterplots to visually assess the correlation between important variables (Image 6). Surprisingly, they did not correlate, and a correlation table confirmed this (Image 7).
+I filtered the data accordingly and examined key variables such as ‘% Iron Concentration’, ‘% Silica Concentration’, ‘Ore Pulp pH’, and ‘Flotation Column 05 Level’.
+<img src="images/E5.jpg?raw=true"/>
+
+2. **Correlation Analysis:** I created scatterplots to visually assess the correlation between important variables.
+<img src="images/E6.jpg?raw=true"/>
+
+Surprisingly, they did not correlate, and a correlation table confirmed this.
+<img src="images/E7.jpg?raw=true"/>
   
-3. **Daily Changes:** A line plot showed the volatility of % Iron Concentrate throughout the day (Image 8). I also plotted the other variables, revealing an alarming drop in Flotation Column 05 Level that suggests further study is needed (Image 9). 
+3. **Daily Changes:** A line plot showed the volatility of '% Iron Concentrate' throughout the day.
+<img src="images/E8.jpg?raw=true"/>
 
-These insights made me wonder about the underlying factors contributing to the drop in Flotation Column 05 Level. Perhaps operational issues or changes in material quality played a role.
+I also plotted the other variables, revealing an alarming drop in 'Flotation Column 05 Level' that suggests further study is needed.
+<img src="images/E9.jpg?raw=true"/>
+<img src="images/E10.jpg?raw=true"/>
+
+These insights made me wonder about the underlying factors contributing to the drop in 'Flotation Column 05 Level'. Perhaps operational issues or changes in material quality played a role.
 
 ---
 ### Main Takeaways
-Through this project, I learned that data can reveal much about efficiency and operations. The lack of correlation among key variables suggests that there may be other influencing factors that were not included in the dataset. Additionally, the drop in Flotation Column 05 Level is a critical finding that warrants further attention, potentially indicating a need for operational adjustments.
+Through this project, I learned that data can reveal much about efficiency and operations. The lack of correlation among key variables suggests that there may be other influencing factors that were not included in the dataset. Additionally, the drop in 'Flotation Column 05' Level is a critical finding that warrants further attention, potentially indicating a need for operational adjustments.
 
 ---
 ### Conclusion and Personal Reflections
