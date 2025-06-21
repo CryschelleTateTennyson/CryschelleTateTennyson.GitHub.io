@@ -39,20 +39,20 @@ Pulling summary statistics helped me grasp the data's overall trends.
 1. **June 1, 2017:** To address the specific questions posed by the plant's head, I focused on June 1, 2017, to see if anything significant happened that day. <img src="images/E4.jpg?raw=true"/>
 
     I filtered the data accordingly and examined key variables such as ‘% Iron Concentration’, ‘% Silica Concentration’, ‘Ore Pulp pH’, and ‘Flotation Column      05 Level’.
-    <img src="images/E5.jpg?raw=true"/>
+<img src="images/E5.jpg?raw=true"/>
 
 2. **Correlation Analysis:** I created scatterplots to visually assess the correlation between important variables.
 <img src="images/E6.jpg?raw=true"/>
 
     Surprisingly, they did not correlate, and a correlation table confirmed this.
-    <img src="images/E7.jpg?raw=true"/>
+<img src="images/E7.jpg?raw=true"/>
   
 3. **Daily Changes:** A line plot showed the volatility of '% Iron Concentrate' throughout the day.
 <img src="images/E8.jpg?raw=true"/>
 
     I also plotted the other variables, revealing an alarming drop in 'Flotation Column 05 Level' that suggests further study is needed.
-    <img src="images/E9.jpg?raw=true"/>
-    <img src="images/E10.jpg?raw=true"/>
+<img src="images/E9.jpg?raw=true"/>
+<img src="images/E10.jpg?raw=true"/>
 
 These insights made me wonder about the underlying factors contributing to the drop in 'Flotation Column 05 Level'. Perhaps operational issues or changes in material quality played a role.
 
