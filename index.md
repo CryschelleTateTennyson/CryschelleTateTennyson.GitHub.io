@@ -4,6 +4,16 @@
 
 ### Learn About My Projects
 
+#### [HR Project with R](/HR)
+<img src="images/HR.png?raw=true"/>
+
+In this project, I analyzed HR data to understand why employee attrition is rising. The main focuses were:
+
+- Which demographics have the strongest relationships?
+- Is attrition influenced by younger age?
+- Can a linear regression model predict monthly income based on age?
+  
+---
 #### [Engineering Project with Python](/engineering)
 <img src="images/Engineering2.png?raw=true"/>
 
