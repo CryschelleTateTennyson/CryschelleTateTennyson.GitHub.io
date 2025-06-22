@@ -29,21 +29,31 @@ The dataset for this project came from the HR manager at Mega IMB. It contains 1
 ---
 ### Analysis Process
 
-I started by cleaning the dataset to ensure the data was accurate for analysis and reading the dataset into R. (Image 1)
+I started by cleaning the dataset to ensure the data was accurate for analysis and reading the dataset into R.
+<img src="images/HR1.jpg?raw=true"/>
 
 ---
 #### Visuals and Insights
 Which Demographics Have the Strongest Relationships?
--	My first step was to look for correlations between different demographics. The correlation matrix I created shows that the strongest relationships are between 'Age' and 'Total Working Years' (0.680) and 'Monthly Income' and 'Total Working Years' (0.773). (Image 2)
--	When visualizing these correlations, it became clear that older employees not only had more experience but also higher incomes. (Image 3)
+-	My first step was to look for correlations between different demographics. The correlation matrix I created shows that the strongest relationships are between 'Age' and 'Total Working Years' (0.680) and 'Monthly Income' and 'Total Working Years' (0.773).
+<img src="images/HR2.jpg?raw=true"/>
+
+-	When visualizing these correlations, it became clear that older employees not only had more experience but also higher income.
+<img src="images/HR3.jpg?raw=true"/>
 
 Is Attrition Influenced by Younger Age?
--	To investigate if younger employees were leaving at a higher rate, I created a boxplot comparing the ages of employees who stayed versus those who left. The data indicated that employees who departed were younger. (Image 4)
--	The results from a hypothesis test (p-value: 1.38e-08, average age of employees that stayed: 38, average age of employees that left: 34) confirmed this finding, illustrating that younger employees were indeed at a greater risk of leaving. (Image 5)
+-	To investigate if younger employees were leaving at a higher rate, I created a boxplot comparing the ages of employees who stayed versus those who left. The data indicated that employees who departed were younger.
+<img src="images/HR4.jpg?raw=true"/>
+
+-	The results from a hypothesis test (p-value: 1.38e-08, average age of employees that stayed: 38, average age of employees that left: 34) confirmed this finding, illustrating that younger employees were indeed at a greater risk of leaving.
+<img src="images/HR5.jpg?raw=true"/>
 
 Can a linear regression model predict monthly income based on age?
--	I also created a linear regression model to see how well age could predict monthly income. The initial model revealed that only 24.79% of income variation could be explained by age alone. (Image 6)
--	When I included total working years in the model, the explanation improved significantly, accounting for 59.88% of income variation. This indicates that a combination of age and experience plays a vital role in determining income. In the future, this will allow Mega IBM to see if income is also tied to attrition. (Image 7)
+-	I also created a linear regression model to see how well age could predict monthly income. The initial model revealed that only 24.79% of income variation could be explained by age alone.
+<img src="images/HR6.jpg?raw=true"/>
+
+-	When I included total working years in the model, the explanation improved significantly, accounting for 59.88% of income variation. This indicates that a combination of age and experience plays a vital role in determining income. In the future, this will allow Mega IBM to see if income is also tied to attrition.
+<img src="images/HR7.jpg?raw=true"/>
 
 ---
 ### Main Takeaways
