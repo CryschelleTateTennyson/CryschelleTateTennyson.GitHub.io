@@ -14,9 +14,9 @@ In this article, I will take you through my analysis process, share key findings
 
 ---
 ### Key Takeaways
-•	Many employees at Texas Health and Human Services are falling short of their required work hours.
-•	Even with overtime, a large number of employees still do not meet the quota.
-•	While break times are within acceptable limits, significant idle time (GAP) is impacting productivity.
+-	Many employees at Texas Health and Human Services are falling short of their required work hours.
+-	Even with overtime, a large number of employees still do not meet the quota.
+-	While break times are within acceptable limits, significant idle time (GAP) is impacting productivity.
 
 ---
 ### Dataset Details
@@ -64,15 +64,15 @@ This visual surprised me because it highlighted that even with overtime, the quo
 Contrary to initial concerns about excessive break times, which should be seven and a half hours a week or less, my analysis showed that employees had considerable GAP time instead. 
 
   	 <img src="images/THHS7.jpg?raw=true"/>
-     <img src="images/THHS7.jpg?raw=true"/>
+    <img src="images/THHS8.jpg?raw=true"/>
 
 This insight shifts the focus from break management to addressing the idle time that could be better utilized.
 
 ---
 ### Main Takeaways
-•	The analysis indicated a significant gap in productivity with many employees still unable to meet their quotas, even when working overtime.
-•	Break times were not excessively long; the main issue was idle time throughout the workday, calling for a need for better time management and efficiency strategies.
-•	Supervisors could benefit from tailored interventions focused on reducing GAP time, ultimately leading to improved compliance with the new law.
+- The analysis indicated a significant gap in productivity with many employees still unable to meet their quotas, even when working overtime.
+- Break times were not excessively long; the main issue was idle time throughout the workday, calling for a need for better time management and efficiency strategies.
+- Supervisors could benefit from tailored interventions focused on reducing GAP time, ultimately leading to improved compliance with the new law.
 
 ---
 ### Conclusion and Personal Reflections
