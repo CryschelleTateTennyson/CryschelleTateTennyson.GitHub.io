@@ -40,6 +40,7 @@ Employee time from 7/20/2025 – 7/26/2025 was entered into the log above, the r
 I included several visuals to represent the data effectively:
 
 •	**Conversion:**
+
 I started with a conversion chart that shows how many hours, and its equivalent percentage, should be worked each day to meet the 95% quota at the end of the week. 
 
 <img src="images/THHS4.jpg?raw=true"/>
