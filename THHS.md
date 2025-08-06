@@ -63,7 +63,7 @@ This visual surprised me because it highlighted that even with overtime, the quo
 •	**Gap Time Analysis:**  
 Contrary to initial concerns about excessive break times, which should be seven and a half hours a week or less, my analysis showed that employees had considerable GAP time instead. 
 
-    <img src="images/THHS7.jpg?raw=true"/>
+<img src="images/THHS7.jpg?raw=true"/>
 <img src="images/THHS8.jpg?raw=true"/>
 
 This insight shifts the focus from break management to addressing the idle time that could be better utilized.
