@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [HR Project with Excel](/HR)
+#### [HR Project with Excel](/THHS)
 <img src="images/THHS.png?raw=true"/>
 
 In this project, I analyzed data from Texas Health and Human Services to determine if their employees are meeting their quota. The main focuses were:
