@@ -30,39 +30,41 @@ I began by talking with the supervisors at Texas Health and Human Services to ma
 ### Visuals and Insights
 I created a time entry slot that allows supervisors to enter employee time and Excel to spit out a dashboard detailing the employees’ timed worked.
 
-[Images 1&2]
+<img src="images/THHS1.jpg?raw=true"/>
+<img src="images/THHS2.jpg?raw=true"/>
 
 Employee time from 7/20/2025 – 7/26/2025 was entered into the log above, the results can be found in the Excel dashboard below.
 
-<img src="images/THHS1.jpg?raw=true"/>
+<img src="images/THHS3.jpg?raw=true"/>
 
 I included several visuals to represent the data effectively:
 
 •	**Conversion:**
 I started with a conversion chart that shows how many hours, and its equivalent percentage, should be worked each day to meet the 95% quota at the end of the week. 
 
-[Image 4]
+<img src="images/THHS4.jpg?raw=true"/>
 
 The days are numbered so that if an employee misses a day or there is a holiday, supervisors can simply look at the number of days worked and determine how much time they should have worked.
 
 •	**Daily Work Hours vs. Required Hours:**  
 This chart clearly shows how many hours each employee worked compared to the required amount. The black bars represent the daily quota. 
 
-  	 [Image 5]
+  	<img src="images/THHS5.jpg?raw=true"/>
 
 What stood out in this chart was the stark number of employees whose bars are under the 5th black line, indicating that they did not meet their 5-day quota.
 
 •	**Overtime Analysis:**  
 The second chart illustrates total hours worked, including overtime. The employees failing to meet the quota are highlighted in red. 
 
-   	[Image 6]
+   	<img src="images/THHS6.jpg?raw=true"/>
 
 This visual surprised me because it highlighted that even with overtime, the quota was still unattainable for many, raising questions about workload management.
 
 •	**Gap Time Analysis:**  
 Contrary to initial concerns about excessive break times, which should be seven and a half hours a week or less, my analysis showed that employees had considerable GAP time instead. 
 
-  	 [Images 7&8]
+  	 <img src="images/THHS7.jpg?raw=true"/>
+     <img src="images/THHS7.jpg?raw=true"/>
 
 This insight shifts the focus from break management to addressing the idle time that could be better utilized.
 
