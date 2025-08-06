@@ -4,6 +4,16 @@
 
 ### Learn About My Projects
 
+#### [HR Project with Excel](/HR)
+<img src="images/THHS.png?raw=true"/>
+
+In this project, I analyzed data from Texas Health and Human Services to determine if their employees are meeting their quota. The main focuses were:
+
+- Creating a log supervisors can enter employee time in to determine if they are meeting their required work hours.
+- Determining if employees are meeting their quota with overtime.
+- Exploring if employees are abusing their breaks.
+
+---
 #### [HR Project with R](/HR)
 <img src="images/HR.png?raw=true"/>
 
