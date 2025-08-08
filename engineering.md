@@ -66,4 +66,6 @@ This project was both challenging and rewarding. I faced hurdles, especially whi
 
 As I conclude this project, I am excited for the last two projects in my challenge from the president of the Mega Corporation.
 
+---
+### Call to Action
 I’d love to hear your thoughts on my findings! Connect with me on LinkedIn, or if you know someone looking to hire a data analyst, let’s have a conversation. Leave a comment with your insights or questions!
