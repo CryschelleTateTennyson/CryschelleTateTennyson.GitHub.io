@@ -45,4 +45,6 @@ As I analyzed the data, several key points emerged for the Mansfield Megas. Firs
 #### Conclusion and Personal Reflections
 This project taught me a lot about the intersection of sports and data analytics. One challenge I faced was deciding what to do with information that is not needed for my current analysis, but may be needed in future analysis. However, I learned how to filter out the data I do not currently need. This experience not only deepened my appreciation for basketball but also solidified my desire to pursue a career in analytics. I am looking forward to my next project from the president.
 
+---
+### Call to Action
 I’d love to hear your thoughts on my findings! Connect with me on LinkedIn, or if you know someone looking to hire a data analyst, let’s have a conversation. Leave a comment with your insights or questions!
