@@ -64,4 +64,6 @@ The dataset I worked with was quite extensive and comprises two tables: health a
 #### Conclusion and Personal Reflections
 This project taught me a lot about the intricacies of hospital operations and the importance of data integrity. I faced challenges, like data cleaning and ensuring accurate interpretations, but overcoming them brought a sense of accomplishment. I look forward to the fifth project of my challenge.
 
+---
+### Call to Action
 I’d love to hear your thoughts on my findings! Connect with me on LinkedIn, or if you know someone looking to hire a data analyst, let’s have a conversation. Leave a comment with your insights or questions!
