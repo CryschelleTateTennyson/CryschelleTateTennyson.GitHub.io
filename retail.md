@@ -62,5 +62,6 @@ At the end of our hour together, I handed him a dynamic report, allowing him and
 
 This project taught me more than just data analysis skills. I faced challenges, especially in distilling complex data into actionable insights quickly. However, overcoming these hurdles showed me the power of data-driven decision-making. It’s a reminder that even a small analysis can make a big difference in a company's direction and profitability.
 
+---
+### Call to Action
 I’d love to hear your thoughts on my findings! Connect with me on LinkedIn, or if you know someone looking to hire a data analyst, let’s have a conversation. Leave a comment with your insights or questions!
-
