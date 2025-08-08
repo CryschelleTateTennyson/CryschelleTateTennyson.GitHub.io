@@ -69,5 +69,6 @@ Working on this project taught me a lot about how data can shine a light on real
 
 This experience has reshaped my understanding of workforce dynamics. I believe that by addressing these insights, companies can create better retention strategies and improve workplace cultures. I am looking forward to my final project in my challenge by the president.
 
+---
+### Call to Action
 I’d love to hear your thoughts on my findings! Connect with me on LinkedIn, or if you know someone looking to hire a data analyst, let’s have a conversation. Leave a comment with your insights or questions!
-
