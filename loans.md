@@ -1,19 +1,25 @@
-## Are Employees Meeting Their Quota?
-<img src="images/THHS.png?raw=true"/>
+## Understanding Loany's Loan Dynamics
+<img src="images/loany.png?raw=true"/>
 
 ---
-It's fascinating how numbers can tell a story, and my recent project certainly proved this point. As I navigated through thousands of data points from Texas Health and Human Services, I realized that the stories behind the data were not just about compliance, but about the livelihoods and well-being of employees. 
+I recently completed an analytics project designed to mirror the responsibilities of a financial analytics role I was applying for. Rather than simply listing technical skills, I wanted to demonstrate how I approach real business problems—by turning job requirements into a working data model and actionable insights.
 
 ---
-### Why THIS Project?
-When a new law mandated that Texas Health and Human Services employees maintain a 95% productivity rate during their work hours, it became clear that measuring and understanding employee performance was essential. With potential job losses looming over the staff, supervisors tasked me with providing a way to track employee productivity effectively.
+### Why I Chose This Project
+In a competitive job market, I wanted to show more than proficiency with SQL or financial concepts. I created a fictional loan company, Loany, and built a dataset to replicate a loan servicing environment, including client portfolios, loan balances, cash flow projections, and customer correspondence. This project became an opportunity to connect technical analysis with business decision-making.
 
 ---
-### What Readers Will Gain
-In this article, I will take you through my analysis process, share key findings about employee productivity, and discuss what these results mean for the workforce. You will also see how simple data visualization can reveal crucial insights for any organization.
+### What You Will Learn
+In this article, I walk through Loany’s insights uncovered from the analysis, including:
+- Portfolio composition by client
+- Expected cash flow and revenue drivers
+- The effectiveness of client communication strategies
+Whether you are interested in financial analysis, data analysis, or loan portfolio management, this project highlights how data can support operational and strategic decisions.
 
 ---
 ### Key Takeaways
--	Many employees at Texas Health and Human Services are falling short of their required work hours.
--	Even with overtime, a large number of employees still do not meet the quota.
--	While break times are within acceptable limits, significant idle time (GAP) is impacting productivity.
+-	Immunity Lending carries the highest total loan balance despite having the fewest active loans, suggesting a concentration in higher-balance products such as mortgages.
+-	February shows the strongest projected cash flow, with Island Bank’s portfolio contributing the largest share of expected revenue.
+-	The High Balance Outreach campaign and in-house vendors demonstrate strong early performance, with high response and delivery rates that warrant further evaluation for payment conversion.
+
+
