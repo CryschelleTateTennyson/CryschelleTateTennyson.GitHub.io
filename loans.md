@@ -34,7 +34,15 @@ This analysis was powered by a SQL-based dataset I designed, consisting of six i
 ---
 ### My Analysis Journey
 I began by validating the integrity of the dataset to ensure all downstream analysis would be reliable. This included confirming that no loan payments exceeded their principal balances and verifying that all loans were associated with existing clients. The absence of results in these validation queries confirmed that the data was consistent and suitable for analysis.
+*Input:*
+<img src="images/l1.jpg?raw=true"/>
+*Output:*
+<img src="images/loany1.2.png?raw=true"/>
 
+*Input:*
+<img src="images/l1.jpg?raw=true"/>
+*Output:*
+<img src="images/loany1.2.png?raw=true"/>
 Next, I analyzed portfolio composition by client to understand overall exposure and activity levels. While **Immunity Lending** had the fewest active loans, it carried the highest total outstanding balance, suggesting a concentration in higher-balance loans such as mortgages rather than consumer products.
 
 I then shifted focus to **cash flow forecasting**, aggregating expected payments weighted by probability. This analysis showed that **February** represents the strongest projected collection month, with **Island Bank’s portfolio** contributing the largest share of expected cash flow. This highlights a potential opportunity to prioritize operational focus on these accounts.
