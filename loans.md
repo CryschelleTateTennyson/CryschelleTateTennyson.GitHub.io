@@ -74,18 +74,19 @@ Breaking projections down by loan type confirmed that **mortgage loans significa
 <img src="images/loany7.png?raw=true"/>
 *Output:*
 <img src="images/l10.jpg?raw=true"/>
+<img src="images/l11.jpg?raw=true"/>
 
 Finally, I evaluated **letter effectiveness and operational performance**. The *High Balance Outreach* campaign achieved a **100% response rate**, and letters sent through *in-house vendors* demonstrated a **100% delivery rate**. While response rates alone do not guarantee revenue, these results indicate promising areas for deeper analysis, particularly around payment conversion following responses.
 
 *Input:*
 <img src="images/loany8.png?raw=true"/>
 *Output:*
-<img src="images/l11.jpg?raw=true"/>
+<img src="images/l12.jpg?raw=true"/>
 
 *Input:*
 <img src="images/loany9.png?raw=true"/>
 *Output:*
-<img src="images/l12.jpg?raw=true"/>
+<img src="images/l13.jpg?raw=true"/>
 
 ---
 ### Key Takeaways and Reflections
