@@ -7,7 +7,11 @@
 #### [Loan Project with SQL](/loans)
 <img src="images/Loany.png?raw=true"/>
 
-In this project, I analyzed data from Texas Health and Human Services to determine if their employees are meeting their quota. The main focuses were
+In this project, I designed a SQL-based database and performed financial analysis for a fictitious loan servicing company to mirror the responsibilities of a financial analytics role. The analytics focused on:
+
+- Portfolio composition by client.
+- Expected cash flow and revenue drivers.
+- The effectiveness of client communication strategies.
 
 
 #### [HR Project with Excel](/THHS)
