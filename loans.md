@@ -52,27 +52,27 @@ Next, I analyzed portfolio composition by client to understand overall exposure 
 <img src="images/loany4.png?raw=true"/>
 *Output:*
 <img src="images/l4.jpg?raw=true"/>
+<img src="images/l5.jpg?raw=true"/>
 
 I then shifted focus to **cash flow forecasting**, aggregating expected payments weighted by probability. This analysis showed that **February** represents the strongest projected collection month, with **Island Bank’s portfolio** contributing the largest share of expected cash flow. This highlights a potential opportunity to prioritize operational focus on these accounts.
 
 *Input:*
 <img src="images/loany5.png?raw=true"/>
 *Output:*
-<img src="images/l5.jpg?raw=true"/>
 <img src="images/l6.jpg?raw=true"/>
+<img src="images/l7.jpg?raw=true"/>
 
 *Input:*
 <img src="images/loany6.png?raw=true"/>
 *Output:*
-<img src="images/l7.jpg?raw=true"/>
 <img src="images/l8.jpg?raw=true"/>
+<img src="images/l9.jpg?raw=true"/>
 
 Breaking projections down by loan type confirmed that **mortgage loans significantly outperform consumer loans** in expected revenue, driven by higher balances and stronger payment probabilities.
 
 *Input:*
 <img src="images/loany7.png?raw=true"/>
 *Output:*
-<img src="images/l9.jpg?raw=true"/>
 <img src="images/l10.jpg?raw=true"/>
 
 Finally, I evaluated **letter effectiveness and operational performance**. The *High Balance Outreach* campaign achieved a **100% response rate**, and letters sent through *in-house vendors* demonstrated a **100% delivery rate**. While response rates alone do not guarantee revenue, these results indicate promising areas for deeper analysis, particularly around payment conversion following responses.
