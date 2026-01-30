@@ -7,7 +7,7 @@
 #### [Loan Project with SQL](/loans)
 <img src="images/Loany.png?raw=true"/>
 
-In this project, I analyzed data from Texas Health and Human Services to determine if their employees are meeting their quota. The main focuses were:
+In this project, I analyzed data from Texas Health and Human Services to determine if their employees are meeting their quota. The main focuses were
 
 
 #### [HR Project with Excel](/THHS)
