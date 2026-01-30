@@ -72,6 +72,7 @@ Breaking projections down by loan type confirmed that **mortgage loans significa
 
 *Input:*
 <img src="images/loany7.png?raw=true"/>
+
 *Output:*
 <img src="images/l10.jpg?raw=true"/>
 <img src="images/l11.jpg?raw=true"/>
