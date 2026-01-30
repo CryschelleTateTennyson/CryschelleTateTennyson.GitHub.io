@@ -19,15 +19,15 @@ Whether you are interested in financial analysis, data analysis, or loan portfol
 ---
 ### Key Takeaways
 -	**Immunity Lending** carries the highest total loan balance despite having the fewest active loans, suggesting a concentration in higher-balance products such as mortgages.
--	
+  
 -	**February** shows the strongest projected cash flow, with **Island Bank’s portfolio** contributing the largest share of expected revenue.
--	
+  
 -	The **High Balance Outreach** campaign and **in-house vendors** demonstrate strong early performance, with high response and delivery rates that warrant further evaluation for payment conversion.
 
 ---
 ### Delving into the Dataset
 This analysis was powered by a SQL-based dataset I designed, consisting of six interconnected tables covering clients, loans, payment projections, and letter communications. Building the dataset allowed me to validate assumptions, troubleshoot data integrity issues, and tailor the structure to real-world analytical needs.
-<img src="images/loany1.png?raw=true"/>
+<img src="images/loany1.2.png?raw=true"/>
 
 ---
 ### My Analysis Journey
