@@ -1,8 +1,19 @@
+## Are Employees Meeting Their Quota?
+<img src="images/THHS.png?raw=true"/>
 
-It's fascinating how numbers can tell a story, and my recent project certainly proved this point. As I navigated through thousands of data points from Texas Health and Human Services, I realized that the stories behind the data were not just about compliance, but about the livelihoods and well-being of employees.
+---
+It's fascinating how numbers can tell a story, and my recent project certainly proved this point. As I navigated through thousands of data points from Texas Health and Human Services, I realized that the stories behind the data were not just about compliance, but about the livelihoods and well-being of employees. 
 
-Why THIS Project?
+---
+### Why THIS Project?
 When a new law mandated that Texas Health and Human Services employees maintain a 95% productivity rate during their work hours, it became clear that measuring and understanding employee performance was essential. With potential job losses looming over the staff, supervisors tasked me with providing a way to track employee productivity effectively.
 
-What Readers Will Gain
+---
+### What Readers Will Gain
 In this article, I will take you through my analysis process, share key findings about employee productivity, and discuss what these results mean for the workforce. You will also see how simple data visualization can reveal crucial insights for any organization.
+
+---
+### Key Takeaways
+-	Many employees at Texas Health and Human Services are falling short of their required work hours.
+-	Even with overtime, a large number of employees still do not meet the quota.
+-	While break times are within acceptable limits, significant idle time (GAP) is impacting productivity.
