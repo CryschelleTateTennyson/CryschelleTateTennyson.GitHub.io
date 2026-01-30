@@ -27,6 +27,7 @@ Whether you are interested in financial analysis, data analysis, or loan portfol
 ---
 ### Delving into the Dataset
 This analysis was powered by a SQL-based dataset I designed, consisting of six interconnected tables covering clients, loans, payment projections, and letter communications. Building the dataset allowed me to validate assumptions, troubleshoot data integrity issues, and tailor the structure to real-world analytical needs.
+<img src="images/loany1.png?raw=true"/>
 
 ---
 ### My Analysis Journey
