@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [Loan Project with SQL](/loans)
-<img src="images/THHS.png?raw=true"/>
+<img src="images/Loany.png?raw=true"/>
 
 In this project, I analyzed data from Texas Health and Human Services to determine if their employees are meeting their quota. The main focuses were:
 
