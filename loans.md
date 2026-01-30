@@ -14,6 +14,7 @@ In this article, I walk through Loany’s insights uncovered from the analysis, 
 - Portfolio composition by client
 - Expected cash flow and revenue drivers
 - The effectiveness of client communication strategies
+  
 Whether you are interested in financial analysis, data analysis, or loan portfolio management, this project highlights how data can support operational and strategic decisions.
 
 ---
@@ -27,6 +28,7 @@ Whether you are interested in financial analysis, data analysis, or loan portfol
 ---
 ### Delving into the Dataset
 This analysis was powered by a SQL-based dataset I designed, consisting of six interconnected tables covering clients, loans, payment projections, and letter communications. Building the dataset allowed me to validate assumptions, troubleshoot data integrity issues, and tailor the structure to real-world analytical needs.
+<img src="images/l1.png?raw=true"/>
 <img src="images/loany1.2.png?raw=true"/>
 
 ---
