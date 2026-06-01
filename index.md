@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [DoorDash Project with Excel](/DoorDash)
-<img src="images/DD Cover.png?raw=true"/>
+<img src="images/DD Cover 2.png?raw=true"/>
 
 In this project, I collected my own delivery data to determine what made a difference in my DoorDash earnings. The analytics focused on:
 
