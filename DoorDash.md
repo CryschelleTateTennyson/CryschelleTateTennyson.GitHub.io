@@ -1,103 +1,53 @@
-## Understanding Loany's Loan Dynamics
-<img src="images/Loany.png?raw=true"/>
+## Maximizing DoorDash Earnings
+<img src="images/DD Cover 2.png?raw=true"/>
 
 ---
-I recently completed an analytics project designed to mirror the responsibilities of a financial analytics role I was applying for. Rather than simply listing technical skills, I wanted to demonstrate how I approach real business problems—by turning job requirements into a working data model and actionable insights.
+When it comes to gig work, every dollar counts. That’s why I set out to answer a question I had as a DoorDash driver: What factors most influence earnings, and how can drivers maximize them? By keeping track of my own earnings and orders over five months, I was able to spot patterns that could help me, and maybe other drivers, earn more for their time.
 
 ---
 ### Why I Chose This Project
-In a competitive job market, I wanted to show more than proficiency with SQL or financial concepts. I created a fictional loan company, Loany, and built a dataset to replicate a loan servicing environment, including client portfolios, loan balances, cash flow projections, and customer correspondence. This project became an opportunity to connect technical analysis with business decision-making.
+I wanted to go beyond the usual tips people share online and use my own experience to see what really made a difference in my DoorDash earnings. By collecting my own delivery data, I wanted to determine whether specific days, restaurants, or time periods were associated with higher earnings. The goal was simple: find practical ways to work smarter, not just harder.
 
 ---
-### What You Will Learn
-In this article, I walk through Loany’s insights uncovered from the analysis, including:
-- Portfolio composition by client
-- Expected cash flow and revenue drivers
-- The effectiveness of client communication strategies
-  
-Whether you are interested in financial analysis, data analysis, or loan portfolio management, this project highlights how data can support operational and strategic decisions.
+### The Data and Tools
+This project is based entirely on data I collected while driving for DoorDash from January through May, on weekdays between 9 AM and 4 PM. My dataset includes ### 1,790 ### deliveries across ### eight ### variables, including date, time, restaurant, tip amount, and total earnings.
+
+Data was cleaned and analyzed using **Excel pivot tables, conditional formatting, forecasting models,** and **calculated KPIs**, which made it easy to spot trends and compare groups.
 
 ---
-### Key Takeaways
--	**Immunity Lending** carries the highest total loan balance despite having the fewest active loans, suggesting a concentration in higher-balance products such as mortgages.
-  
--	**February** shows the strongest projected cash flow, with **Island Bank’s portfolio** contributing the largest share of expected revenue.
-  
--	The **High Balance Outreach** campaign and **in-house vendors** demonstrate strong early performance, with high response and delivery rates that warrant further evaluation for payment conversion.
+### What I Found
+Looking at my data, several patterns showed up:
+- **Tuesdays Generated the Highest Average Earnings:** Of all weekdays, Tuesdays stood out with the highest average daily earnings at $120.86. Mondays, in comparison, were the slowest at $112.34 per day. This suggests that drivers with flexible schedules may achieve higher weekly earnings by prioritizing Tuesday shifts. <img src="images/D1.jpg?raw=true"/>
+- **Chipotle and Jersey Mike’s Generated Above-Average Earnings per Delivery:** Orders from Chipotle and Jersey Mike’s were frequent and led to higher-than-average earnings per delivery. The average for all deliveries was $6.73, but orders from Chipotle averaged $8.45, and Jersey Mike’s came in at $7.20. Orders from these restaurants were associated with higher-than-average earnings per delivery during the analysis period. <img src="images/D2.jpg?raw=true"/>
+- **The Lunch Rush Produced the Highest Hourly Earnings:** The 12 PM to 2 PM window was the strongest, with hourly earnings of $17.09 at noon and $17.08 at 1 PM, both above the overall average of $16.51. The slowest hour was 9 AM, which averaged $15.13 per hour. This suggests that the lunch rush is the most profitable time period to prioritize. <img src="images/D3.jpg?raw=true"/>
+- **Low-Tip Orders Were Most Common:** Most deliveries had tips between $0.01 and $10.00, with an average delivery earning of $6.22 for this group, lower than the overall average. This suggests that although high-tip orders generate strong payouts, lower-tip orders occur far more frequently. <img src="images/D4.jpg?raw=true"/>
+- **Earnings Forecast for June:** A simple trend-based forecasting model was developed using historical earnings data to estimate potential June earnings. Based on patterns in my data, daily earnings in June could range from about $77.59 to $124.69, depending on the day and orders taken. <img src="images/D5.jpg?raw=true"/>
+ 
+Across the five-month analysis period, total earnings were $12,050.47, including $7,921.39 in tips. Average earnings were $114.77 per day, $16.51 per hour, and $6.73 per delivery. <img src="images/D6.jpg?raw=true"/>
 
 ---
-### Delving into the Dataset
-This analysis was powered by a SQL-based dataset I designed, consisting of six interconnected tables covering clients, loans, payment projections, and letter communications. Building the dataset allowed me to validate assumptions, troubleshoot data integrity issues, and tailor the structure to real-world analytical needs.
-
-<img src="images/l1.jpg?raw=true"/>
-<img src="images/loany1.2.png?raw=true"/>
-
----
-### My Analysis Journey
-I began by validating the integrity of the dataset to ensure all downstream analysis would be reliable. This included confirming that no loan payments exceeded their principal balances and verifying that all loans were associated with existing clients. The absence of results in these validation queries confirmed that the data was consistent and suitable for analysis.
-
-*Input:*
-<img src="images/loany2.png?raw=true"/>
-*Output:*
-<img src="images/l2.jpg?raw=true"/>
-
-*Input:*
-<img src="images/loany3.png?raw=true"/>
-*Output:*
-<img src="images/l3.jpg?raw=true"/>
-
-Next, I analyzed portfolio composition by client to understand overall exposure and activity levels. While **Immunity Lending** had the fewest active loans, it carried the highest total outstanding balance, suggesting a concentration in higher-balance loans such as mortgages rather than consumer products.
-
-*Input:*
-<img src="images/loany4.png?raw=true"/>
-*Output:*
-<img src="images/l4.jpg?raw=true"/>
-<img src="images/l5.jpg?raw=true"/>
-
-I then shifted focus to **cash flow forecasting**, aggregating expected payments weighted by probability. This analysis showed that **February** represents the strongest projected collection month, with **Island Bank’s portfolio** contributing the largest share of expected cash flow. This highlights a potential opportunity to prioritize operational focus on these accounts.
-
-*Input:*
-<img src="images/loany5.png?raw=true"/>
-*Output:*
-<img src="images/l6.jpg?raw=true"/>
-<img src="images/l7.jpg?raw=true"/>
-
-*Input:*
-<img src="images/loany6.png?raw=true"/>
-*Output:*
-<img src="images/l8.jpg?raw=true"/>
-<img src="images/l9.jpg?raw=true"/>
-
-Breaking projections down by loan type confirmed that **mortgage loans significantly outperform consumer loans** in expected revenue, driven by higher balances and stronger payment probabilities.
-
-*Input:*
-<img src="images/loany7.png?raw=true"/>
-
-*Output:*
-
-<img src="images/l10.jpg?raw=true"/>
-<img src="images/l11.jpg?raw=true"/>
-
-Finally, I evaluated **letter effectiveness and operational performance**. The *High Balance Outreach* campaign achieved a **100% response rate**, and letters sent through *in-house vendors* demonstrated a **100% delivery rate**. While response rates alone do not guarantee revenue, these results indicate promising areas for deeper analysis, particularly around payment conversion following responses.
-
-*Input:*
-<img src="images/loany8.png?raw=true"/>
-*Output:*
-<img src="images/l12.jpg?raw=true"/>
-
-*Input:*
-<img src="images/loany9.png?raw=true"/>
-*Output:*
-<img src="images/l13.jpg?raw=true"/>
+### Recommendations
+-	Consider prioritizing **Tuesday shifts**, as Tuesdays produced the highest average daily earnings during the study period.
+-	Orders from **Chipotle** and **Jersey Mike’s** were associated with above-average earnings per delivery and may be worth prioritizing when other factors are comparable.
+-	Avoid low-performing time blocks when possible. Lunch hours, **12 PM – 2 PM**, produced the highest average earnings.
 
 ---
-### Key Takeaways and Reflections
-This project emphasized the importance of **storytelling through data**, not just technical querying. Designing the dataset and validating assumptions mirrored real-world analytical workflows. One notable insight was how **Immunity Lending’s high total balance**, despite fewer loans, may signal an opportunity to tailor mortgage-focused strategies for similar clients.
+### Limitations
+-	Data was collected from a single driver.
+-	Only weekday deliveries were analyzed.
+-	Results may vary by market, season, and demand conditions.
+-	External factors such as weather, distance, and order size were not included.
 
 ---
-### Recommendation
-Based on these findings, Loany should further evaluate the High Balance Outreach campaign using in-house vendors, focusing on **payment conversion rates and long-term revenue impact**. Expanding this approach to other high-balance segments could improve overall collections and forecasting accuracy.
+### Reflections
+If these patterns remain consistent, prioritizing higher-performing days, restaurants, and time blocks could increase earnings efficiency without increasing total hours worked.
+
+For anyone driving for DoorDash or considering gig work, small changes in how you schedule your hours or pick orders can add up. Knowing which days, times, and restaurants are likely to bring in more money can help you plan your workweek for better results. Although results may vary across cities and markets, these patterns could be a good starting point for your own strategy.
+
+---
+### What I'd Explore Next
+One possible next step would be to track other factors like distance, order size, or weather to see if they also have an effect. Comparing results with other drivers in different areas could also help test if these patterns hold up elsewhere.
 
 ---
 ### Let's Connect
-This project reinforced my interest in applying financial analysis to real operational challenges. I would love to hear your feedback or discuss the approach in more detail. Feel free to connect with me on LinkedIn—especially if you or someone you know is looking for a financial analyst who enjoys turning data into insight.
+I’d love to hear your thoughts on my findings! Leave a comment with your insights or questions. Feel free to connect with me on LinkedIn if you’d like to discuss the analysis, provide feedback, or learn more about my work in data analytics.
