@@ -4,6 +4,16 @@
 
 ### Learn About My Projects
 
+#### [DoorDash Project with Excel](/DoorDash)
+<img src="images/DD Cover.png?raw=true"/>
+
+In this project, I collected my own delivery data to determine what made a difference in my DoorDash earnings. The analytics focused on:
+
+- Days, restaurants, and time periods associated with higher earnings.
+- Average earnings from the most frequent tip category.
+- Forecasted earnings.
+
+
 #### [Loan Project with SQL](/loans)
 <img src="images/Loany.png?raw=true"/>
 
