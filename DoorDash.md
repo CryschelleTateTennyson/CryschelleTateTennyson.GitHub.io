@@ -17,20 +17,36 @@ Data was cleaned and analyzed using **Excel pivot tables, conditional formatting
 ---
 ### What I Found
 Looking at my data, several patterns showed up:
-- **Tuesdays Generated the Highest Average Earnings:** Of all weekdays, **Tuesdays** stood out with the highest average daily earnings at **$120.86**. Mondays, in comparison, were the slowest at $112.34 per day. This suggests that drivers with flexible schedules may achieve higher weekly earnings by prioritizing Tuesday shifts. <img src="images/DD 1.jpg?raw=true"/>
-- **Chipotle and Jersey Mike’s Generated Above-Average Earnings per Delivery:** Orders from Chipotle and Jersey Mike’s were frequent and led to higher-than-average earnings per delivery. The average for all deliveries was $6.73, but orders from **Chipotle averaged $8.45**, and **Jersey Mike’s came in at $7.20**. Orders from these restaurants were associated with higher-than-average earnings per delivery during the analysis period. <img src="images/DD 2.jpg?raw=true"/>
+- **Tuesdays Generated the Highest Average Earnings:** Of all weekdays, **Tuesdays** stood out with the highest average daily earnings at **$120.86**. Mondays, in comparison, were the slowest at $112.34 per day. This suggests that drivers with flexible schedules may achieve higher weekly earnings by prioritizing Tuesday shifts.
+
+<img src="images/DD 1.jpg?raw=true"/>
+
+- **Chipotle and Jersey Mike’s Generated Above-Average Earnings per Delivery:** Orders from Chipotle and Jersey Mike’s were frequent and led to higher-than-average earnings per delivery. The average for all deliveries was $6.73, but orders from **Chipotle averaged $8.45**, and **Jersey Mike’s came in at $7.20**. Orders from these restaurants were associated with higher-than-average earnings per delivery during the analysis period.
+
+<img src="images/DD 2.jpg?raw=true"/>
+
 - **The Lunch Rush Produced the Highest Hourly Earnings:** The **12 PM to 2 PM** window was the strongest, with hourly earnings of **$17.09 at noon and $17.08 at 1 PM**, both above the overall average of $16.51. The slowest hour was 9 AM, which averaged $15.13 per hour. This suggests that the lunch rush is the most profitable time period to prioritize.
   
 <img src="images/DD 3.jpg?raw=true"/>
-- **Low-Tip Orders Were Most Common:** Most deliveries had **tips between $0.01 and $10.00**, with an average delivery earning of **$6.22** for this group, lower than the overall average. This suggests that although high-tip orders generate strong payouts, lower-tip orders occur far more frequently. <img src="images/DD 4.jpg?raw=true"/>
-- **Earnings Forecast for June:** A simple trend-based forecasting model was developed using historical earnings data to estimate potential June earnings. Based on patterns in my data, daily earnings in **June could range from about $77.59 to $124.69**, depending on the day and orders taken. <img src="images/DD 5.jpg?raw=true"/>
+
+- **Low-Tip Orders Were Most Common:** Most deliveries had **tips between $0.01 and $10.00**, with an average delivery earning of **$6.22** for this group, lower than the overall average. This suggests that although high-tip orders generate strong payouts, lower-tip orders occur far more frequently.
+
+<img src="images/DD 4.jpg?raw=true"/>
+
+- **Earnings Forecast for June:** A simple trend-based forecasting model was developed using historical earnings data to estimate potential June earnings. Based on patterns in my data, daily earnings in **June could range from about $77.59 to $124.69**, depending on the day and orders taken.
+
+<img src="images/DD 5.jpg?raw=true"/>
  
-Across the five-month analysis period, total earnings were $12,050.47, including $7,921.39 in tips. Average earnings were $114.77 per day, $16.51 per hour, and $6.73 per delivery. <img src="images/DD 6.jpg?raw=true"/>
+Across the five-month analysis period, total earnings were $12,050.47, including $7,921.39 in tips. Average earnings were $114.77 per day, $16.51 per hour, and $6.73 per delivery.
+
+<img src="images/DD 6.jpg?raw=true"/>
 
 ---
 ### Recommendations
 -	Consider prioritizing **Tuesday shifts**, as Tuesdays produced the highest average daily earnings during the study period.
+  
 -	Orders from **Chipotle** and **Jersey Mike’s** were associated with above-average earnings per delivery and may be worth prioritizing when other factors are comparable.
+
 -	Avoid low-performing time blocks when possible. Lunch hours, **12 PM – 2 PM**, produced the highest average earnings.
 
 ---
