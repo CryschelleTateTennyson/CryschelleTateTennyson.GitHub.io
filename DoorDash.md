@@ -52,8 +52,11 @@ Across the five-month analysis period, total earnings were $12,050.47, including
 ---
 ### Limitations
 -	Data was collected from a single driver.
+  
 -	Only weekday deliveries were analyzed.
+  
 -	Results may vary by market, season, and demand conditions.
+  
 -	External factors such as weather, distance, and order size were not included.
 
 ---
