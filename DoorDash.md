@@ -10,7 +10,7 @@ I wanted to go beyond the usual tips people share online and use my own experien
 
 ---
 ### The Data and Tools
-This project is based entirely on data I collected while driving for DoorDash from January through May, on weekdays between 9 AM and 4 PM. My dataset includes ### 1,790 ### deliveries across ### eight ### variables, including date, time, restaurant, tip amount, and total earnings.
+This project is based entirely on data I collected while driving for DoorDash from January through May, on weekdays between 9 AM and 4 PM. My dataset includes **1,790** deliveries across **eight variables**, including date, time, restaurant, tip amount, and total earnings.
 
 Data was cleaned and analyzed using **Excel pivot tables, conditional formatting, forecasting models,** and **calculated KPIs**, which made it easy to spot trends and compare groups.
 
@@ -19,7 +19,8 @@ Data was cleaned and analyzed using **Excel pivot tables, conditional formatting
 Looking at my data, several patterns showed up:
 - **Tuesdays Generated the Highest Average Earnings:** Of all weekdays, Tuesdays stood out with the highest average daily earnings at $120.86. Mondays, in comparison, were the slowest at $112.34 per day. This suggests that drivers with flexible schedules may achieve higher weekly earnings by prioritizing Tuesday shifts. <img src="images/DD 1.jpg?raw=true"/>
 - **Chipotle and Jersey Mike’s Generated Above-Average Earnings per Delivery:** Orders from Chipotle and Jersey Mike’s were frequent and led to higher-than-average earnings per delivery. The average for all deliveries was $6.73, but orders from Chipotle averaged $8.45, and Jersey Mike’s came in at $7.20. Orders from these restaurants were associated with higher-than-average earnings per delivery during the analysis period. <img src="images/DD 2.jpg?raw=true"/>
-- **The Lunch Rush Produced the Highest Hourly Earnings:** The 12 PM to 2 PM window was the strongest, with hourly earnings of $17.09 at noon and $17.08 at 1 PM, both above the overall average of $16.51. The slowest hour was 9 AM, which averaged $15.13 per hour. This suggests that the lunch rush is the most profitable time period to prioritize. <img src="images/DD 3.jpg?raw=true"/>
+- **The Lunch Rush Produced the Highest Hourly Earnings:** The 12 PM to 2 PM window was the strongest, with hourly earnings of $17.09 at noon and $17.08 at 1 PM, both above the overall average of $16.51. The slowest hour was 9 AM, which averaged $15.13 per hour. This suggests that the lunch rush is the most profitable time period to prioritize.
+<img src="images/DD 3.jpg?raw=true"/>
 - **Low-Tip Orders Were Most Common:** Most deliveries had tips between $0.01 and $10.00, with an average delivery earning of $6.22 for this group, lower than the overall average. This suggests that although high-tip orders generate strong payouts, lower-tip orders occur far more frequently. <img src="images/DD 4.jpg?raw=true"/>
 - **Earnings Forecast for June:** A simple trend-based forecasting model was developed using historical earnings data to estimate potential June earnings. Based on patterns in my data, daily earnings in June could range from about $77.59 to $124.69, depending on the day and orders taken. <img src="images/DD 5.jpg?raw=true"/>
  
