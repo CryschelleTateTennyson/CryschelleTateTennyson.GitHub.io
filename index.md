@@ -4,6 +4,16 @@
 
 ### Learn About My Projects
 
+#### [People Analytics Project with Excel](/PeopleAnalytics)
+<img src="images/HRA.png?raw=true"/>
+
+-	Dataset: 1,470 Employees
+-	Tool(s): Excel
+-	Techniques: Data Cleaning, Exploratory Data Analysis, Pivot Tables, KPI Analysis, Dashboard Design
+-	Objective: Identify factors associated with employee attrition
+-	Key Findings: Employees in Sales, employees aged 18–25, and employees with fewer than 10 years of tenure experienced the highest attrition rates.
+
+
 #### [DoorDash Project with Excel](/DoorDash)
 <img src="images/DD Cover 2.png?raw=true"/>
 
